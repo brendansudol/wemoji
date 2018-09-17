@@ -57,8 +57,8 @@ const Details = ({ toggleModal }) => (
             Purchase - $14
           </a>
         </div>
-        <div className="sm-col-4 xs-hide">
-          <Wemoji name="thumbs-up-sign" />
+        <div className="sm-col-4 xs-hide py2">
+          <Wemoji name="victory-hand" />
         </div>
       </div>
     </div>
