@@ -7,7 +7,7 @@ import Wemoji from './Wemoji'
 const Hero = ({ emojis }) => (
   <div className="px2 py2 container mx-auto">
     <div className="mb3 center">
-      <div className="h1 sm-h0">
+      <div className="mt1 h1 sm-h0">
         <strong>we</strong>
         moji
       </div>

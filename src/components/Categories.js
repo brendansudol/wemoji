@@ -22,8 +22,8 @@ const Categories = ({ hands, faces, professions, activities, misc }) => (
         <h2 className="mt0 h1">Better together.</h2>
         <p className="mb4 h2">
           What's a <strong>we</strong>
-          moji? It's an animated GIF that's inclusive of all skin tones. This
-          set includes 200+ icons in three different sizes. Here’s a preview...
+          moji? It's an animated GIF that’s inclusive of all skin tones. This
+          set includes 200+ icons in four different sizes. Here’s a preview...
         </p>
         <Category name="Gestures" emojis={hands} />
         <Category name="Faces" emojis={faces} />

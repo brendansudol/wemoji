@@ -25,20 +25,20 @@ const Details = ({ toggleModal }) => (
             <div className="py1 flex">
               <Bullet />
               <div>
-                230 total icons (
+                230 icons (
                 <button
                   type="button"
-                  className="btn btn-link p0"
+                  className="btn btn-link regular p0"
                   onClick={toggleModal}
                 >
-                  full list
+                  see full list
                 </button>
                 )
               </div>
             </div>
             <div className="py1 flex">
               <Bullet />
-              <div>Four unique sizes (32, 64, 100, & 200px)</div>
+              <div>Four sizes (32, 64, 100, & 200px)</div>
             </div>
             <div className="py1 flex">
               <Bullet />

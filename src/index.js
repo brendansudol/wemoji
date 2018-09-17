@@ -10,7 +10,7 @@ render(
   <App
     emojisAll={emojisAll}
     emojisByCat={emojisByCat}
-    showPromo={window.location.search.includes('ref=test')}
+    showPromo={window.location.search.includes('ref=producthunt')}
   />,
   document.getElementById('root')
 )

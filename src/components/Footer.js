@@ -6,13 +6,13 @@ const Footer = () => (
       © wemoji
       <span className="px1">/</span>
       Designed by{' '}
-      <a className="black" href="#!">
+      <a className="black" href="https://twitter.com/brensudol">
         @brensudol
       </a>
       <span className="xs-hide">
         <span className="px1">/</span>
         Emoji graphics courtesy of{' '}
-        <a className="black" href="#!">
+        <a className="black" href="https://twemoji.twitter.com/">
           Twemoji
         </a>
       </span>
