@@ -54,7 +54,7 @@ const Details = ({ toggleModal }) => (
             rel="noopener noreferrer"
             data-gumroad-single-product="true"
           >
-            Purchase - $14
+            Purchase - $10
           </a>
         </div>
         <div className="sm-col-4 xs-hide py2">
